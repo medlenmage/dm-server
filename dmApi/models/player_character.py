@@ -5,4 +5,4 @@ from .campaigns import Campaign
 
 class DungeonMaster(models.Model):    
     campaigns = models.ForeignKey(Campaign, on_delete=models.DO_NOTHING, blank=True, null=True)
-    
+    player_character = models.ForeignKey(PlayerCharacter, on_delete=models.DO_NOTHING, blank=True, null=True)
