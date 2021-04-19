@@ -1,8 +1,8 @@
-from dmApi.models.dm import DungeonMaster
 from django.db import models
 from django.conf import settings
 from django.db.models.deletion import DO_NOTHING
-from .campaigns import Campaign
+from .player import Player
+from .dm import DungeonMaster
 
 class DMUser(models.Model):
     user = models.OneToOneField(settings.AUTH_USER_MODEL, on_delete=models.DO_NOTHING)
