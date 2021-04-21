@@ -1,0 +1,46 @@
+[
+    {
+        "model": "dmApi.monster",
+        "pk": 1,
+        "fields": {
+            "monster_title": "",
+            "monster_type": "",
+            "monster_stats": "",
+            "monster_skills": "",
+            "monster_notes": ""
+        }
+    },
+    {
+        "model": "dmApi.monster",
+        "pk": 2,
+        "fields": {
+            "monster_title": "",
+            "monster_type": "",
+            "monster_stats": "",
+            "monster_skills": "",
+            "monster_notes": ""
+        }
+    },
+    {
+        "model": "dmApi.monster",
+        "pk": 3,
+        "fields": {
+            "monster_title": "",
+            "monster_type": "",
+            "monster_stats": "",
+            "monster_skills": "",
+            "monster_notes": ""
+        }
+    },
+    {
+        "model": "dmApi.monster",
+        "pk": 4,
+        "fields": {
+            "monster_title": "",
+            "monster_type": "",
+            "monster_stats": "",
+            "monster_skills": "",
+            "monster_notes": ""
+        }
+    }
+]

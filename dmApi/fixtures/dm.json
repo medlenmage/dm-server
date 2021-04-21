@@ -1,0 +1,30 @@
+[
+    {
+        "model": "dmApi.dm",
+        "pk": 1,
+        "fields": {
+            "campaigns": 1
+        }
+    },    
+    {
+        "model": "dmApi.dm",
+        "pk": 2,
+        "fields": {
+            "campaigns": 2
+        }
+    },
+    {
+        "model": "dmApi.dm",
+        "pk": 3,
+        "fields": {
+            "campaigns": 3
+        }
+    },
+    {
+        "model": "dmApi.dm",
+        "pk": 4,
+        "fields": {
+            "campaigns": 4
+        }
+    }
+]
