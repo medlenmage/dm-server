@@ -1,0 +1,38 @@
+[
+    {
+        "model": "dmApi.dmuser",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "bio": "",
+            "phone_number": "615-777-8899"
+        }
+    },
+    {
+        "model": "dmApi.dmuser",
+        "pk": 2,
+        "fields": {
+            "user": 2,
+            "bio": "",
+            "phone_number": "615-777-8899"
+        }
+    },
+    {
+        "model": "dmApi.dmuser",
+        "pk": 3,
+        "fields": {
+            "user": 3,
+            "bio": "",
+            "phone_number": "615-777-8899"
+        }
+    },
+    {
+        "model": "dmApi.dmuser",
+        "pk": 4,
+        "fields": {
+            "user": 4,
+            "bio": "",
+            "phone_number": "615-777-8899"
+        }
+    }
+]

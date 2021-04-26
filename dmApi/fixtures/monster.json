@@ -3,44 +3,44 @@
         "model": "dmApi.monster",
         "pk": 1,
         "fields": {
-            "monster_title": "",
-            "monster_type": "",
-            "monster_stats": "",
-            "monster_skills": "",
-            "monster_notes": ""
+            "monster_title": "Karthus",
+            "monster_type": "Vampire",
+            "monster_stats": "unknown",
+            "monster_skills": "unknown",
+            "monster_notes": "unknown"
         }
     },
     {
         "model": "dmApi.monster",
         "pk": 2,
         "fields": {
-            "monster_title": "",
-            "monster_type": "",
-            "monster_stats": "",
-            "monster_skills": "",
-            "monster_notes": ""
+            "monster_title": "Pogger",
+            "monster_type": "Kobold",
+            "monster_stats": "unknown",
+            "monster_skills": "unknown",
+            "monster_notes": "unknown"
         }
     },
     {
         "model": "dmApi.monster",
         "pk": 3,
         "fields": {
-            "monster_title": "",
-            "monster_type": "",
-            "monster_stats": "",
-            "monster_skills": "",
-            "monster_notes": ""
+            "monster_title": "Gnarl",
+            "monster_type": "Trent",
+            "monster_stats": "unknown",
+            "monster_skills": "unknown",
+            "monster_notes": "unknown"
         }
     },
     {
         "model": "dmApi.monster",
         "pk": 4,
         "fields": {
-            "monster_title": "",
-            "monster_type": "",
-            "monster_stats": "",
-            "monster_skills": "",
-            "monster_notes": ""
+            "monster_title": "Rusty",
+            "monster_type": "Construct",
+            "monster_stats": "unknown",
+            "monster_skills": "unknown",
+            "monster_notes": "unknown"
         }
     }
 ]

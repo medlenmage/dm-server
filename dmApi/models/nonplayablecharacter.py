@@ -5,6 +5,6 @@ from django.db.models.deletion import DO_NOTHING
 class NonPlayableCharacter(models.Model):
     npc_title = models.TextField()
     npc_type = models.TextField()
-    npc_stats = models.DateTimeField()
-    npc_skills = models.DateTimeField()
-    npc_notes = models.DateTimeField()
+    npc_stats = models.TextField()
+    npc_skills = models.TextField()
+    npc_notes = models.TextField()

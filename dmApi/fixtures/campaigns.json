@@ -1,0 +1,30 @@
+[
+    {
+        "model": "dmApi.campaign",
+        "pk": 1,
+        "fields": {
+            "story": "",
+            "notes": 1,
+            "monsters": 1,
+            "cheat_sheet": "",
+            "custom_rules": "",
+            "player_characters": 1,
+            "npc": 1,
+            "dm": 1
+        }
+    },
+    {
+        "model": "dmApi.campaign",
+        "pk": 2,
+        "fields": {
+            "story": "",
+            "notes": 1,
+            "monsters": 1,
+            "cheat_sheet": "",
+            "custom_rules": "",
+            "player_characters": 1,
+            "npc": 1,
+            "dm": 1
+        }
+    }
+]

@@ -1,6 +1,6 @@
 [
     {
-        "model": "model.npc",
+        "model": "dmApi.nonplayablecharacter",
         "pk": 1,
         "fields": {
             "npc_title": "Geralt",
@@ -11,7 +11,7 @@
         }
     },
     {
-        "model": "model.npc",
+        "model": "dmApi.nonplayablecharacter",
         "pk": 2,
         "fields": {
             "npc_title": "Tommy",
@@ -22,25 +22,25 @@
         }
     },
     {
-        "model": "model.npc",
+        "model": "dmApi.nonplayablecharacter",
         "pk": 3,
         "fields": {
-            "npc_title": "",
-            "npc_type": "",
-            "npc_stats": "",
-            "npc_skills": "",
-            "npc_notes": ""
+            "npc_title": "Mark",
+            "npc_type": "Dwarf",
+            "npc_stats": "unknown",
+            "npc_skills": "+ infinity drinking",
+            "npc_notes": "huge drunk"
         }
     },
     {
-        "model": "model.npc",
+        "model": "dmApi.nonplayablecharacter",
         "pk": 4,
         "fields": {
-            "npc_title": "",
-            "npc_type": "",
-            "npc_stats": "",
-            "npc_skills": "",
-            "npc_notes": ""
+            "npc_title": "Tony",
+            "npc_type": "Gangsta",
+            "npc_stats": "+20 2 cool 4 school",
+            "npc_skills": "+ savage",
+            "npc_notes": "don't mess with tony"
         }
     }
 ]

@@ -1,8 +1,8 @@
-from .dm import DungeonMaster
-from .campaigns import Campaign
-from .note import Note
-from .dm_user import DMUser
+# from .dm import DungeonMaster
+from .campaign import Campaign
+from .dmuser import DMUser
 from .monster import Monster
 from .note import Note
-from .player_character import PlayerCharacter
-from .player import Player
+from .playercharacter import PlayerCharacter
+from .nonplayablecharacter import NonPlayableCharacter
+# from .player import Player
