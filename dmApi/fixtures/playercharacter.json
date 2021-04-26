@@ -1,0 +1,30 @@
+[
+    {
+        "model": "dmApi.playercharacter",
+        "pk": 1,
+        "fields": {
+            "character_sheet": ""
+        }
+    },
+    {
+        "model": "dmApi.playercharacter",
+        "pk": 2,
+        "fields": {
+            "character_sheet": ""
+        }
+    },
+    {
+        "model": "dmApi.playercharacter",
+        "pk": 3,
+        "fields": {
+            "character_sheet": ""
+        }
+    },
+    {
+        "model": "dmApi.playercharacter",
+        "pk": 4,
+        "fields": {
+            "character_sheet": ""
+        }
+    }
+]

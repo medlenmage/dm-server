@@ -1,0 +1,46 @@
+[
+    {
+        "model": "dmApi.nonplayablecharacter",
+        "pk": 1,
+        "fields": {
+            "npc_title": "Geralt",
+            "npc_type": "Human/Witcher",
+            "npc_stats": "16 str, 14 dex, 14 con, 8 int, 12 wis, 8 cha",
+            "npc_skills": "Can use Witcher signs like minor magic spells. Extensively knowledge of monsters and creatures",
+            "npc_notes": "Grumpy, lacks some emotions, dry humor"
+        }
+    },
+    {
+        "model": "dmApi.nonplayablecharacter",
+        "pk": 2,
+        "fields": {
+            "npc_title": "Tommy",
+            "npc_type": "Human",
+            "npc_stats": "Unknown",
+            "npc_skills": "Persuasion +2",
+            "npc_notes": "Local Bard and entertainer"
+        }
+    },
+    {
+        "model": "dmApi.nonplayablecharacter",
+        "pk": 3,
+        "fields": {
+            "npc_title": "Mark",
+            "npc_type": "Dwarf",
+            "npc_stats": "unknown",
+            "npc_skills": "+ infinity drinking",
+            "npc_notes": "huge drunk"
+        }
+    },
+    {
+        "model": "dmApi.nonplayablecharacter",
+        "pk": 4,
+        "fields": {
+            "npc_title": "Tony",
+            "npc_type": "Gangsta",
+            "npc_stats": "+20 2 cool 4 school",
+            "npc_skills": "+ savage",
+            "npc_notes": "don't mess with tony"
+        }
+    }
+]

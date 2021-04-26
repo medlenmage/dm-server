@@ -1,0 +1,38 @@
+[
+    {
+        "model": "dmApi.note",
+        "pk": 1,
+        "fields": {
+            "note_title": "Sparks",
+            "note_body": "player 1 has spells x, y, and z",
+            "note_date": "2021-10-02"
+        }
+    },
+    {
+        "model": "dmApi.note",
+        "pk": 2,
+        "fields": {
+            "note_title": "Tank",
+            "note_body": "player 2 has spells x, y, and z",
+            "note_date": "2021-10-02"
+        }
+    },
+    {
+        "model": "dmApi.note",
+        "pk": 3,
+        "fields": {
+            "note_title": "Fargas",
+            "note_body": "player 3 has spells x, y, and z",
+            "note_date": "2021-10-02"
+        }
+    },
+    {
+        "model": "dmApi.note",
+        "pk": 4,
+        "fields": {
+            "note_title": "Tonks",
+            "note_body": "player 4 has spells x, y, and z",
+            "note_date": "2021-10-02"
+        }
+    }
+]

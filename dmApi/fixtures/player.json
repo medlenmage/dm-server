@@ -1,0 +1,34 @@
+[
+    {
+        "model": "dmApi.player",
+        "pk": 1,
+        "fields": {
+            "campaigns": 1,
+            "player_characters": 1
+        }
+    },
+    {
+        "model": "dmApi.player",
+        "pk": 2,
+        "fields": {
+            "campaigns": 1,
+            "player_characters": 2
+        }
+    },
+    {
+        "model": "dmApi.player",
+        "pk": 3,
+        "fields": {
+            "campaigns": 2,
+            "player_characters": 3
+        }
+    },
+    {
+        "model": "dmApi.player",
+        "pk": 4,
+        "fields": {
+            "campaigns": 2,
+            "player_characters": 4
+        }
+    }
+]
